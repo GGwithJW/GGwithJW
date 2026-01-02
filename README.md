@@ -18,3 +18,7 @@ I've ranked my top languages below.
 - Lua 5.1/5.4
 - UI/UX (HTML, CSS, JS) (Limited knowledge of React)
 - SQL (Specifically: MariaDB & MySQL)
+
+# Contact Me
+If any reason you need to contact me whether it be work related or personal, you can reach me on my Discord:
+- ggwithjw
