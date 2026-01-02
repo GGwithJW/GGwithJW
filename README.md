@@ -8,3 +8,6 @@
 ```
 # Hi, I'm GGwithJW.
 I'm an aspiring developer that's most known for resources on the FiveM Cfx.re Platform.
+
+# About Me
+I'm an 18-year-old from England with a long-standing passion for development since a young age, particularly backend infrastructure, which I’ve pursued from curiosity into practice.
