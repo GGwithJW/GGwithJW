@@ -10,15 +10,17 @@
 I'm an aspiring developer that's most known for resources on the FiveM Cfx.re Platform.
 
 # About Me
-I'm an 18-year-old college student from England with a long-standing passion for development since a young age, particularly backend infrastructure, which I’ve pursued from curiosity into practice.
+I'm an 19-year-old college student from England with a long-standing passion for development since a young age, particularly backend infrastructure, which I’ve pursued from curiosity into practice.
 
 # Programming Languages
 I've ranked my top languages below.
 - PHP
 - Lua 5.1/5.4
-- UI/UX (HTML, CSS, JS) (Limited knowledge of React)
+- UI/UX (HTML, CSS, JS)
+- TypeScript (Currently learning Angular/React/NextJS)
 - SQL (Specifically: MariaDB & MySQL)
 
 # Contact Me
-If any reason you need to contact me whether it be work related or personal, you can reach me on my Discord:
-- ggwithjw
+If any reason you need to contact me whether it be work related or personal, you can reach me on my Discord or by my business email:
+- Discord: ggwithjw
+- Email: business@ggwithjw.xyz
