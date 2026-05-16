@@ -1,70 +1,76 @@
 ````md
-<p align="center">
-  <img src="https://kappa.lol/7I1VuB" width="100%" alt="Banner"/>
-</p>
+![Banner](https://kappa.lol/7I1VuB)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=jack%40macbook-pro+~+%25+whoami;Aspiring+Backend+Developer;FiveM+%2F+Cfx.re+Resource+Developer;macOS+Enthusiast" alt="Typing SVG" />
-</h1>
+#  jack@macbook-air
 
-```console
-jack@macbook-pro ~ % whoami
+```zsh
+jack@macbook-air ~ % whoami
 Jack
 
-jack@macbook-pro ~ % cat about.txt
+jack@macbook-air ~ % cat about.txt
 19-year-old developer from England.
-Focused on backend infrastructure, scalable systems,
-and development on the FiveM Cfx.re platform.
+Focused on backend infrastructure and FiveM development.
 
-jack@macbook-pro ~ % ls languages/
+jack@macbook-air ~ % ls languages/
+
 PHP
 Lua 5.1 / 5.4
 HTML / CSS / JavaScript
 TypeScript
 SQL (MariaDB & MySQL)
 
-jack@macbook-pro ~ % currently-learning
+jack@macbook-air ~ % currently-learning
+
 Angular
 React
 Next.js
 
-jack@macbook-pro ~ % contact --show
+jack@macbook-air ~ % contact --show
+
 Discord: ggwithjw
 Email: business@ggwithjw.xyz
-````
+```
 
 ---
 
-### 🖥️ Tech Stack
+## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,lua,ts,js,html,css,mysql,react,nextjs,angular,vscode,git" />
-</p>
+```txt
+Languages:
+├── PHP
+├── Lua
+├── TypeScript
+├── JavaScript
+├── HTML/CSS
+└── SQL
+
+Currently Learning:
+├── Angular
+├── React
+└── Next.js
+```
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ggwithjw&show_icons=true&theme=transparent&hide_border=true" />
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true)
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggwithjw&layout=compact&theme=transparent&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-### ⚡ Terminal Facts
+## Terminal Facts
 
-```console
-jack@macbook-pro ~ % uptime
+```zsh
+jack@macbook-air ~ % echo $STACK
+PHP Lua TypeScript
+
+jack@macbook-air ~ % uptime
 Coding since a young age
 
-jack@macbook-pro ~ % echo $FAVOURITE_STACK
-PHP + Lua + TypeScript
+jack@macbook-air ~ % brew install motivation
 
-jack@macbook-pro ~ % brew install motivation
 ==> Successfully installed motivation 🍺
 ```
-
-```
-```
+````
