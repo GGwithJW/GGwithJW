@@ -1,26 +1,70 @@
-![Banner](https://kappa.lol/7I1VuB)
+````md
+<p align="center">
+  <img src="https://kappa.lol/7I1VuB" width="100%" alt="Banner"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=jack%40macbook-pro+~+%25+whoami;Aspiring+Backend+Developer;FiveM+%2F+Cfx.re+Resource+Developer;macOS+Enthusiast" alt="Typing SVG" />
+</h1>
+
+```console
+jack@macbook-pro ~ % whoami
+Jack
+
+jack@macbook-pro ~ % cat about.txt
+19-year-old developer from England.
+Focused on backend infrastructure, scalable systems,
+and development on the FiveM Cfx.re platform.
+
+jack@macbook-pro ~ % ls languages/
+PHP
+Lua 5.1 / 5.4
+HTML / CSS / JavaScript
+TypeScript
+SQL (MariaDB & MySQL)
+
+jack@macbook-pro ~ % currently-learning
+Angular
+React
+Next.js
+
+jack@macbook-pro ~ % contact --show
+Discord: ggwithjw
+Email: business@ggwithjw.xyz
+````
+
+---
+
+### 🖥️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,lua,ts,js,html,css,mysql,react,nextjs,angular,vscode,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ggwithjw&show_icons=true&theme=transparent&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggwithjw&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+### ⚡ Terminal Facts
+
+```console
+jack@macbook-pro ~ % uptime
+Coding since a young age
+
+jack@macbook-pro ~ % echo $FAVOURITE_STACK
+PHP + Lua + TypeScript
+
+jack@macbook-pro ~ % brew install motivation
+==> Successfully installed motivation 🍺
 ```
- ______     ______     __     __     __     ______   __  __       __     __     __    
-/\  ___\   /\  ___\   /\ \  _ \ \   /\ \   /\__  _\ /\ \_\ \     /\ \   /\ \  _ \ \   
-\ \ \__ \  \ \ \__ \  \ \ \/ ".\ \  \ \ \  \/_/\ \/ \ \  __ \   _\_\ \  \ \ \/ ".\ \  
- \ \_____\  \ \_____\  \ \__/".~\_\  \ \_\    \ \_\  \ \_\ \_\ /\_____\  \ \__/".~\_\ 
-  \/_____/   \/_____/   \/_/   \/_/   \/_/     \/_/   \/_/\/_/ \/_____/   \/_/   \/_/ 
+
 ```
-# Hi, I'm Jack.
-I'm an aspiring developer that's most known for resources on the FiveM Cfx.re Platform.
-
-# About Me
-I'm an 19-year-old college student from England with a long-standing passion for development since a young age, particularly backend infrastructure, which I’ve pursued from curiosity into practice.
-
-# Programming Languages
-I've ranked my top languages below.
-- PHP
-- Lua 5.1/5.4
-- UI/UX (HTML, CSS, JS)
-- TypeScript (Currently learning Angular/React/NextJS)
-- SQL (Specifically: MariaDB & MySQL)
-
-# Contact Me
-If any reason you need to contact me whether it be work related or personal, you can reach me on my Discord or by my business email:
-- Discord: ggwithjw
-- Email: business@ggwithjw.xyz
+```
