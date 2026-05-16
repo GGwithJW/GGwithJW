@@ -1,4 +1,3 @@
-````md
 ![Banner](https://kappa.lol/7I1VuB)
 
 #  jack@macbook-air
@@ -73,4 +72,3 @@ jack@macbook-air ~ % brew install motivation
 
 ==> Successfully installed motivation 🍺
 ```
-````
