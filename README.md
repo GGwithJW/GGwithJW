@@ -10,7 +10,7 @@
 - GitLab / GitHub: This is where I learnt how CI/CD pipelines work and how to automate deployments including version control.
 
 # What I Work With
-- Language(s): Lua, JavaScript, NUI (HTML+CSS) & PHP.
+- Language(s): Lua, JavaScript, NUI (HTML+CSS), PHP & TypeScript (Currently learning).
 - Platform Specific: FiveM, RedM & Roblox.
 - Backend Specific: MySQL, MariaDB & REST APIs.
 - DevOps Specific: Git, GitHub, GitLab, CI/CD.
